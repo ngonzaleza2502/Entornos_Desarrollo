@@ -4,7 +4,7 @@
  */
 package tarea4;
 
-public class Utlidades {
+public class Pruebas {
 
     public static int diasEnMesArray(int mes, int anio) {
         int[] diasPorMes = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
